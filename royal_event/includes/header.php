@@ -173,7 +173,7 @@
           </li>
 
          <li class="nav-item">
-            <a class="nav-link" target="_blank" href="https://api.whatsapp.com/send?phone=919760203187&text=Hi%20Nikhil,%20I%20saw%20your%20Project%20named%20as%20Royal%20Event%20Software.%20I%20need%20your%20help%20for%20the%20same.
+            <a class="nav-link" target="_blank" href="https://api.whatsapp.com/send?phone=919760203187&text=Hi%20Ayush,%20I%20saw%20your%20Project%20named%20as%20Royal%20Event%20Software.%20I%20need%20your%20help%20for%20the%20same.
           ">
                
                 <span class="menu-title">Contact Author</span>
