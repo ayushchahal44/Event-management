@@ -17,9 +17,7 @@ if(isset($_GET['delid']))
 <html lang="en">
 <?php @include("includes/head.php");?>
 <body>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
   <div class="container-scroller">
     
     <?php @include("includes/header.php");?>
@@ -72,9 +70,7 @@ if(isset($_GET['delid']))
                       <th class="text-center" style="width: 15%;">Action</th>
                     </tr>
                   </thead>
-                  <!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+                   
 <tbody>
                     <?php
                     $sql="SELECT * from tbleventtype";
@@ -118,12 +114,8 @@ if(isset($_GET['delid']))
   </div>
   
   <?php @include("includes/foot.php");?>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
   
 </body>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
 </html>

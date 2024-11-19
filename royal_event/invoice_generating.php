@@ -6,9 +6,7 @@ check_login();
 <html lang="en">
 <?php @include("includes/head.php");?>
 <body>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
   <div class="container-scroller">
     
     <?php @include("includes/header.php");?>
@@ -100,9 +98,7 @@ check_login();
   </div>
   
   <?php @include("includes/foot.php");?>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
   
   <script>
     function CallPrint(strid) {
@@ -116,7 +112,5 @@ check_login();
     }
   </script>
 </body>
-<!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
+ 
 </html>
