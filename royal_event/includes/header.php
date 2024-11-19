@@ -22,11 +22,11 @@
           </div> 
         </div>
         <div class="col-md-4">
-           <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-            <a class="navbar-brand brand-logo " href="dashboard.php"><img class="img-avatar" style="height: 70px; width: auto;" src="assets/img/companyimages/logo.jpg" alt=""></a>
+           <!-- <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center"> -->
+            <!-- <a class="navbar-brand brand-logo " href="dashboard.php"><img class="img-avatar" style="height: 70px; width: auto;" src="assets/img/companyimages/logo.jpg" alt=""></a> -->
             
 
-          </div>          
+          <!-- </div>           -->
         </div>
         <div class="col-md-4">
           <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 d-flex flex-row bg-white">
@@ -48,7 +48,7 @@
           { 
             ?>
             <a class="nav-link dropdown-toggle" id="profileDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
-              <div class="nav-profile-img">
+              <!-- <div class="nav-profile-img">
                 <?php 
                 if($row->Photo=="avatar15.jpg")
                 { 
@@ -60,7 +60,7 @@
                   <img class="img-avatar" src="assets/img/profileimages/<?php  echo $row->Photo;?>" alt=""> 
                   <?php 
                 } ?>
-              </div>
+              </div> -->
               <div class="nav-profile-text ">
                 <p class="mb-1 text-dark"><?php  echo $row->FirstName;?> <?php  echo $row->LastName;?></p>
               </div>

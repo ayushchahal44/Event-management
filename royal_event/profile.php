@@ -99,7 +99,7 @@ if(isset($_POST['submit']))
                                    <input type="text" class="form-control" id="email2" name="" value="<?php  echo $row->AdminRegdate;?>" readonly="true">
                                </div>
                            </div>
-                           <div class="control-group">
+                           <!-- <div class="control-group">
                             <label class="control-label" for="basicinput">Profile Image</label>
                             <div class="controls">
                               <?php if($row->Photo=="avatar15.jpg"){ ?>
@@ -110,7 +110,7 @@ if(isset($_POST['submit']))
                               <?php 
                           } ?>  
                           <a href="update_image.php?id=<?php echo $adminid;?>">Change Image</a>
-                      </div>
+                      </div> -->
                   </div>       
                   <?php 
               }
